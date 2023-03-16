@@ -5,7 +5,7 @@ The question: if you pick any 3 unique numbers from 1 to 2000, what is the proba
 To answer the question: it appears that it is exactly 20% of the time. (And this makes sense intuitively, because although you are summing it, so the distribution is more normalized, the chances are still 1-in-5. It is interesting that it is exact everytime though.)
 
 
-The output (in case you cared) is as follows:
+The output (in case you cared) for one of my runs is as follows:
 
     Finished with 125 in 97 milliseconds
         false: 1,525,200 (0.800000)
