@@ -7,23 +7,22 @@ To answer the question: it appears that it is exactly 20% of the time. (And this
 
 The output (in case you cared) is as follows:
 
-Finished with 125 in 97 milliseconds
+    Finished with 125 in 97 milliseconds
+        false: 1,525,200 (0.800000)
+        true:  381,300 (0.200000)
 
-    false: 1,525,200 (0.800000)
-    true:  381,300 (0.200000)
-Finished with 250 in 522 milliseconds (5.381443x)
-
-    false: 12,350,400 (0.800000)
-    true:  3,087,600 (0.200000)
-Finished with 500 in 3072 milliseconds (5.885057x)
-
-    false: 99,400,800 (0.800000)
-    true:  24,850,200 (0.200000)
-Finished with 1000 in 25058 milliseconds (8.156901x)
-
-    false: 797,601,600 (0.800000)
-    true:  199,400,400 (0.200000)
-Finished with 2000 in 195596 milliseconds (7.805731x)
+    Finished with 250 in 522 milliseconds (5.381443x)
+        false: 12,350,400 (0.800000)
+        true:  3,087,600 (0.200000)
     
-    false: 6,390,403,200 (0.800000)
-    true:  1,597,600,800 (0.200000)
+    Finished with 500 in 3072 milliseconds (5.885057x)
+        false: 99,400,800 (0.800000)
+        true:  24,850,200 (0.200000)
+    
+    Finished with 1000 in 25058 milliseconds (8.156901x)
+        false: 797,601,600 (0.800000)
+        true:  199,400,400 (0.200000)
+    
+    Finished with 2000 in 195596 milliseconds (7.805731x)
+        false: 6,390,403,200 (0.800000)
+        true:  1,597,600,800 (0.200000)
