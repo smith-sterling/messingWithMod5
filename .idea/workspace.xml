@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="997200db-84e5-456b-81c2-fa17aeaf4944" name="Changes" comment="Double-checking the pushing of it all to git">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="997200db-84e5-456b-81c2-fa17aeaf4944" name="Changes" comment="More readable readme">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pack/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +68,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678990012246</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="A couple changes to the code for more data and also added to the readme">
+      <created>1678990489085</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678990489085</updated>
+    </task>
+    <task id="LOCAL-00003" summary="More readable readme">
+      <created>1678990585279</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678990585279</updated>
+    </task>
+    <task id="LOCAL-00004" summary="More readable readme">
+      <created>1678990618975</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678990618975</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +105,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Double-checking the pushing of it all to git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Double-checking the pushing of it all to git" />
+    <MESSAGE value="A couple changes to the code for more data and also added to the readme" />
+    <MESSAGE value="More readable readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="More readable readme" />
   </component>
 </project>
