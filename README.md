@@ -27,4 +27,4 @@ The output for one of my runs (in case you cared) is as follows:
         false: 6,390,403,200 (0.800000)
         true:  1,597,600,800 (0.200000)
 
-As for the timing things, theoretically, it should be right at 8x. My guess is that because of kernel thread scheduling and stuff, the lower things can finish in less time overall because you don't have to hop away as much. And then there is a little bit of inevitable variability, and 7.8 adn 8.2 are close enough to satisfy me. 
+As for the timing things, theoretically, it should be right at 8x. My guess is that because of kernel thread scheduling and stuff, the lower things can finish in less time overall because you don't have to hop away as much. And then there is a little bit of inevitable variability, and 7.8 and 8.2 are close enough to satisfy me. 
